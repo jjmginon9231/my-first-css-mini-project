@@ -1,5 +1,7 @@
 # My First CSS Mini-Project
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/758d3795-6c2c-4f3f-9f03-258062832cdd/deploy-status)](https://app.netlify.com/sites/my-first-css-mini-project/deploys)
+
 ## Introduction
 Welcome to my first CSS mini-project! This project is inspired by the teachings of Dave Gray's [CSS Mini-Project for Beginners](https://www.youtube.com/watch?v=rwTs9NR3Du8) video. The goal of this project is to apply the fundamental concepts of CSS learned from the tutorial to create a visually appealing web page.
 
